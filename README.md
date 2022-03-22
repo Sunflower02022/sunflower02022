@@ -8,6 +8,8 @@
 
 <p align="justify">Entende-se como publico-alvo deste e-commerce qualquer pessoa ou empresa que tenha interesse na melhoria da eficiência de energias renováveis na matriz energética nacional e investimento em energia limpa e renovável, reduzindo o impacto ambiental causado pelo uso da energia convencional gerada por fontes não renováveis.</p>
 
+<a href="https://sunflower-e.netlify.app/#/inicio">Clique aqui para acessar o site do projeto!</a>
+
 <h2 align="center">💻 Tecnologias utilizadas</h2>
 <h2 align="center"> Back-End </h2>
 <div style="display: inline_block" align="center"><br>
